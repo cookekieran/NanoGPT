@@ -1,0 +1,5 @@
+*.excalidraw
+*.docx
+torch-examples.ipynb
+Bigram.ipynb    
+*.ipynb_checkpoints/
